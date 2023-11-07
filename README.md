@@ -8,7 +8,7 @@ Eager to collaborate, learn, and contribute to exciting projects 🚀
 
 ✉️  You can contact me at [giosanstefana@yahoo.com](mailto:giosanstefana@yahoo.com)
 
-🧠  I'm learning Backend and Frontend Frameworks
+🧠  I'm learning Backend and Frontend Development
 
 
 Skills
