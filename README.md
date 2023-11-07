@@ -4,13 +4,12 @@ I am currently a mathematics and computer science student at faculty of Babes Bo
 Along with that I'm enthusiastic about mathematical concepts. Keen to bridge the gap between math and code📐.
 Eager to collaborate, learn, and contribute to exciting projects 🚀
 
-🌍  I'm based in Cluj-Napoca, Romania* 
+🌍  I'm based in Cluj-Napoca, Romania
 
 ✉️  You can contact me at [giosanstefana@yahoo.com](mailto:giosanstefana@yahoo.com)
 
 🧠  I'm learning Backend and Frontend Frameworks
 
-🤝  I'm open to collaborating on Projects
 
 Skills
 
