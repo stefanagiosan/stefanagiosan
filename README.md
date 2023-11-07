@@ -1,4 +1,5 @@
-Hi 👋 My name is Stefana Giosan
+Hi 👋 My name is Stefana Giosan.
+
 I am currently a mathematics and computer science student at faculty of Babes Bolyai🎓I'm passionate about coding, problem-solving and all things tech💻. Currently building a foundation in algorithms, data structures and software development📚.
 Along with that I'm enthusiastic about mathematical concepts. Keen to bridge the gap between math and code📐.
 Eager to collaborate, learn, and contribute to exciting projects 🚀
